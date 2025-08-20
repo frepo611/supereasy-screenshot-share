@@ -16,10 +16,15 @@ Welcome! This repo is a super easy way to share screenshots in their original re
 ### Tekniska museet
 ![](screenshots/Skärmbild%202025-08-20%20110559.png)
 ![](screenshots/Skärmbild%202025-08-20%20113704.png)
+![](screenshots/Skärmbild%202025-08-20%20115807.png)
+
 
 ### Nationalmuseum
 ![](screenshots/Skärmbild%202025-08-20%20113058.png)
 ![](screenshots/Skärmbild%202025-08-20%20113516.png)
+
+### Sveriges Telemuseum
+![](screenshots/Skärmbild%202025-08-20%20115511.png)
 
 <!-- Add more screenshots as needed -->
 
